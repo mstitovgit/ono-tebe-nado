@@ -30,13 +30,13 @@ a {
   list-style: circle;
 }
 
-.header__link{
+.header__link {
   display: inline-block;
   border-bottom: 1px solid #000000;
 }
 
-.header__link_active{
-  border-bottom:none;
+.header__link_active {
+  border-bottom: none;
 }
 
 .address__link {
