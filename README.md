@@ -1,1 +1,1 @@
-https://github.com/mstitovgit/ono-tebe-nado
+https://github.com/mstitovgit/ono-tebe-nado-fd
